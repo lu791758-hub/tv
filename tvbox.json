@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "hanime1",
+      "name": "Hanime1.me",
+      "type": 3,
+      "api": "https://你的pages域名/drpy.js?rule=Hanime1",
+      "search": 1,
+      "quickSearch": 1,
+      "filter": false
+    }
+  ]
+}
