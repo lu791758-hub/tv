@@ -10,8 +10,8 @@
       "filterable": 0
     },
     {
-      "key": "裤佬php聚合",
-      "name": "👖裤佬丨PHP丨聚合",
+      "key": "php聚合",
+      "name": "丨PHP丨聚合",
       "type": 4,
       "api": "http://zhangqun1818.serv00.net/php.php",
       "searchable": 1,
