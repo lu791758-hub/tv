@@ -1,7 +1,7 @@
 WidgetMetadata = {
     id: "missav_makka_play",
     title: "MissAV_ovo",
-    author: "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+    author: "love yan",
     description: "简易的missav模块",
     version: "2.1.1",
     requiredVersion: "0.0.1",
